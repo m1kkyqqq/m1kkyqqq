@@ -1,4 +1,4 @@
-# 🚀@nehochuvidettebya - Senior Python Developer
+# 💎@nehochuvidettebya - Senior Python Developer💎
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=22D3E3&center=true&vCenter=true&width=500&lines=Python+Developer;AI+Enthusiast;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
@@ -13,7 +13,7 @@
 
 </div>
 
-## 📊 GitHub Statistics
+## 💎 GitHub Statistics
 
 <div align="center">
   
@@ -23,7 +23,7 @@
 
 </div>
 
-## 🛠️ Technical Skills
+## 💎 Technical Skills
 
 ### **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python&logoColor=white)
@@ -50,23 +50,23 @@
 ![AWS](https://img.shields.io/badge/AWS-Advanced-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Expert-F05032?style=flat&logo=git&logoColor=white)
 
-## 🌟 Featured Projects
+## 💎 Featured Projects
 
-### 🤖 [AI Content Generator](https://github.com/johndoe/ai-content-generator)
+###  💎 [AI Content Generator](https://github.com/johndoe/ai-content-generator)
 Advanced AI-powered content generation system with custom models and API
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
-### 🚀 [E-commerce Microservices](https://github.com/johndoe/ecommerce-microservices)
+### 💎 [E-commerce Microservices](https://github.com/johndoe/ecommerce-microservices)
 Scalable e-commerce platform built with microservices architecture
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-### 📊 [Data Analysis Toolkit](https://github.com/johndoe/data-analysis-toolkit)
+### 💎 [Data Analysis Toolkit](https://github.com/johndoe/data-analysis-toolkit)
 Comprehensive data analysis and visualization tools
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -75,7 +75,7 @@ Comprehensive data analysis and visualization tools
 
 </div>
 
-## 📫 Let's Connect!
+## 💎 Let's Connect!
 
 <div align="center">
 
@@ -86,7 +86,7 @@ Comprehensive data analysis and visualization tools
 
 </div>
 
-## 📊 Weekly Development Breakdown
+## 💎 Weekly Development Breakdown
 
 ```text
 Python       🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   80%
