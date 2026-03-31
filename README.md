@@ -1,8 +1,6 @@
 # 💎@nehochuvidettebya - Junior Frontend developer💎
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=22D3E3&center=true&vCenter=true&width=500&lines=Python+Developer;AI+Enthusiast;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
-</p>
+
 
 ## 💎 GitHub Statistics
 
