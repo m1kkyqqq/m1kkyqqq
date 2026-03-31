@@ -1,17 +1,8 @@
-# 💎@nehochuvidettebya - Senior Python Developer💎
+# 💎@nehochuvidettebya - Junior Frontend developer💎
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=22D3E3&center=true&vCenter=true&width=500&lines=Python+Developer;AI+Enthusiast;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
 </p>
-
-<div align="center">
-  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</div>
 
 ## 💎 GitHub Statistics
 
@@ -26,18 +17,10 @@
 ## 💎 Technical Skills
 
 ### **Programming Languages**
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Advanced-336791?style=flat&logo=postgresql&logoColor=white)
-
-### **Frameworks & Libraries**
-**Backend:**
-![Django](https://img.shields.io/badge/Django-Expert-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-Advanced-009688?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-Intermediate-000000?style=flat&logo=flask&logoColor=white)
 
 **Frontend:**
 ![React](https://img.shields.io/badge/React-Intermediate-61DAFB?style=flat&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-Beginner-4FC08D?style=flat&logo=vue.js&logoColor=white)
+
 
 ### **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Expert-336791?style=flat&logo=postgresql&logoColor=white)
