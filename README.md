@@ -35,9 +35,3 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://johndoe.dev)
 
 </div>
-
-## 💎 Weekly Development Breakdown
-
-```text
-Python       🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   80%
-SQL          🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩      70%
