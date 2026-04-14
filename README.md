@@ -20,39 +20,8 @@
 ![React](https://img.shields.io/badge/React-Intermediate-61DAFB?style=flat&logo=react&logoColor=black)
 
 
-### **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Expert-336791?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-Advanced-DC382D?style=flat&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### **DevOps & Cloud**
-![Docker](https://img.shields.io/badge/Docker-Expert-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Intermediate-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Advanced-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Expert-F05032?style=flat&logo=git&logoColor=white)
 
-## 💎 Featured Projects
-
-###  💎 [AI Content Generator](https://github.com/johndoe/ai-content-generator)
-Advanced AI-powered content generation system with custom models and API
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-
-### 💎 [E-commerce Microservices](https://github.com/johndoe/ecommerce-microservices)
-Scalable e-commerce platform built with microservices architecture
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-
-### 💎 [Data Analysis Toolkit](https://github.com/johndoe/data-analysis-toolkit)
-Comprehensive data analysis and visualization tools
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
 
 </div>
 
